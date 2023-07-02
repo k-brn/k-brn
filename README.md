@@ -20,6 +20,8 @@ Detail-oriented Software Developer specializing in Full Stack Web Development. I
 #
 
 ### Projects:
+[Vendor Management GraphQL Server](https://github.com/k-brn/vendor-management-graphql-server)
+
 [Straw Hat Pirates API](https://github.com/k-brn/straw-hat-pirates-api)
 <!--
 **k-brn/k-brn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
